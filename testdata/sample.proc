@@ -1,0 +1,13 @@
+// testdata/sample.proc
+
+let x = 5;
+let y = 10;
+
+let result = x + y;
+
+print(result); // It should print 15
+
+let isPositive = result > 0;
+
+print(isPositive); // It should print true
+
